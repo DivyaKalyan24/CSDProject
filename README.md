@@ -1,3 +1,14 @@
+# Uni Connect Hub 
+
+Our platform will address the challenge of fragmented communication for university students and student clubs. It will offer features for:
+
+1. Centralized Information: Providing a single hub for students to access comprehensive club information and stay updated on events.
+
+2. Historical Data Utilization: Leveraging historical event data to enable clubs to target their audiences effectively and tailor events to student interests.
+
+The platform aims to enhance university student clubs engagement by streamlining information access and optimizing event planning and promotion.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App] 
@@ -35,3 +46,27 @@ Explore Events section which has hover effect to perform actions such as-
 ![image](https://github.com/DivyaKalyan24/CSDProject/assets/110040357/111d2378-cc71-48ad-a9f1-3ca0fe43ed76)
 Interest Section which collects students interests which allow student clubs to get info about overall students interests in the university & Footer Section.   
 
+
+# Data Visualization using PowerBI
+
+Using a dataset of students infomation along with their interests 
+
+<img width="960" alt="image" src="https://github.com/DivyaKalyan24/CSDProject/assets/110040357/e4ec9ed3-1b71-446f-8c77-8120fd00388c">
+
+Visualization over Count of Students by Interest 1
+
+![image](https://github.com/DivyaKalyan24/CSDProject/assets/110040357/ac1f6262-16e7-4649-8f5e-168e00ed2584)
+
+Visualization over Count of Students by Interest 2
+
+![image](https://github.com/DivyaKalyan24/CSDProject/assets/110040357/8057b600-cb5e-4d40-80ae-d78bcba50dce)
+
+
+Visualization over Count of Students by Interest 3
+
+![image](https://github.com/DivyaKalyan24/CSDProject/assets/110040357/f6cd2e9e-dd7c-4e08-9150-1689c478f3bf)
+
+
+Visualization over Count of Students by Specialization over Type
+
+![image](https://github.com/DivyaKalyan24/CSDProject/assets/110040357/efb70591-f02d-45c5-ae2b-9974d562e9d5)
